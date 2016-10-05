@@ -1,0 +1,6 @@
+C:\Users\ClevelandCodes\Desktop\CCProjects\Debug1\Debug1\bin\Debug\Debug1.exe.config
+C:\Users\ClevelandCodes\Desktop\CCProjects\Debug1\Debug1\obj\Debug\Debug1.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\Desktop\CCProjects\Debug1\Debug1\bin\Debug\Debug1.exe
+C:\Users\ClevelandCodes\Desktop\CCProjects\Debug1\Debug1\bin\Debug\Debug1.pdb
+C:\Users\ClevelandCodes\Desktop\CCProjects\Debug1\Debug1\obj\Debug\Debug1.exe
+C:\Users\ClevelandCodes\Desktop\CCProjects\Debug1\Debug1\obj\Debug\Debug1.pdb

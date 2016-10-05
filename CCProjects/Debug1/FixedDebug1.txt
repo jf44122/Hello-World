@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Debug1, Configuration: Debug Any CPU ------
+1>  Debug1 -> C:\Users\ClevelandCodes\Desktop\CCProjects\Debug1\Debug1\bin\Debug\Debug1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

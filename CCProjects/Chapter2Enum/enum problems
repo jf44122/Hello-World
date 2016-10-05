@@ -1,0 +1,12 @@
+using system;
+
+namespace enum problems
+{
+	class SolarSystem
+	{
+	enum Planet
+	{MERCURY, VENUS, EARTH, MARS, JUPITER, SATURN, URANUS, NEPTUNE
+	}
+	static void Main(string[] args)
+	}
+}

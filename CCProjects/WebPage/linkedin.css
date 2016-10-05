@@ -1,0 +1,43 @@
+body{
+	/*background: url("img/business.jpg");*/
+	font-family: garamond;
+	background-size: 100%;
+	background-color: #99f;
+	text-align: left;
+}
+.bi{
+	background: transparent;
+	color: rgba(80 80 150 0.5);
+}
+image{ /*picture on the main page*/
+	border-radius: 50%;
+	align-self: center;
+}
+table, th, td{ /*detailed the table on the main page*/
+	border: 1px solid;
+	border-collapse: collapse;
+	border-color: #117;
+	padding: auto;
+}
+table{/*keep the table responsive*/
+	width: auto;
+}
+
+.nav{/*navbar at the top, keeping it nicely spaced and inline*/
+	padding: 5px 100px 5px 100px;
+	text-align: right;
+	font-family: Georgia;
+	font-size-adjust: 15;
+}
+#prj{/*border around the navbar*/
+	border: 5px 20% 5px 20%;
+}
+.home{
+	border: 5px 20% 5px 20%;
+}
+#center{
+	text-align: center;
+}
+.nodots{
+	display: inline;
+}
